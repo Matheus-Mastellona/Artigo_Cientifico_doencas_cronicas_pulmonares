@@ -1,0 +1,50 @@
+V0001 - Unidade da Federação
+V0020		Ano de referência
+V0026		Tipo de situação censitária
+A02201		Em seu domicílio, há algum animal de estimação	
+A02305 		Quantos destes animais são gatos		
+A02306		Quantos destes animais são cachorros		
+A02307		Quantos destes animais são aves	
+A02308		Quantos destes animais são peixes
+C006		Sexo
+C008		Idade do morador na data de referência
+P050		Atualmente, o(a) Sr(a) fuma algum produto do tabaco? 
+P052		E no passado, o(a) Sr(a) fumou algum produto do tabaco?
+P05404		Em média, quanto fuma por dia ou por semana Cigarros de palha ou enrolados a mão? 
+P05407		Em média, quanto fuma por dia ou por semana Cigarros de cravo ou de Bali? 
+P05410		Em média, quanto fuma por dia ou por semana Cachimbos (considere cachimbos cheios)? 
+P05413	P54e	Em média, quanto fuma por dia ou por semana Charutos ou cigarrilhas? 
+P05416	P54f	Em média, quanto fuma por dia ou por semana Narguilé (sessões)? 
+Q074	Q74	Algum médico já lhe deu o diagnóstico de asma (ou bronquite asmática)? 
+Q075	Q75	Que idade o(a) Sr(a) tinha no primeiro diagnóstico de asma? 
+Q076	Q76	Nos últimos doze meses, o(a) Sr(a) teve alguma crise de asma? 
+Q07601	Q76a	Algum médico já lhe receitou algum medicamento para asma (ou bronquite asmática)? 
+Q07704	Q77a	. Nas duas últimas semanas o(a) Sr(a) usou os medicamentos orais por causa da asma (ou bronquite asmática) ?
+Q07705	Q77b	Algum dos medicamentos orais para asma (ou bronquite asmática) foi obtido no “Aqui tem Farmácia Popular”? 	
+Q07706	Q77c	Algum dos medicamentos orais para asma (ou bronquite asmática) foi obtido em serviço público de saúde? 			
+Q07707	Q77d	O(A) Sr(a) pagou algum valor pelos medicamentos orais para asma? 		
+Q07708	Q77e	Nas duas últimas semanas o(a) Sr(a) usou aerossóis (bombinha) por causa da asma (ou bronquite asmática) 				
+Q07709	Q77f	Algum dos aerossóis (bombinha) para asma (ou bronquite asmática) foi obtido no “Aqui tem Farmácia Popular”? 		
+Q07710	Q77g	Algum dos aerossóis (bombinha) para asma (ou bronquite asmática) foi obtido em serviço público de saúde?		
+Q07711	Q77h	O(A) Sr(a) pagou algum valor pelos aerossóis (bombinha) para asma? 
+Q078	Q78	Em geral, em que grau a asma limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? 
+Q11606	Q116a	Diagnóstico de bronquite crônica 	
+Q11607	Q116a	Diagnóstico de outro 
+Q11701	Q117a	Que idade o(a) Sr(a) tinha no primeiro diagnóstico dessa(s) doença(s) no pulmão? 	
+Q11806	Q118a	Por causa da doença no pulmão Usa medicamentos (inaladores, aerossol ou comprimidos) 	
+Q11807	Q118a	Por causa da doença no pulmão Usa oxigênio 	
+Q11808	Q118a	Por causa da doença no pulmão Fisioterapia respiratória 	
+Q11809	Q118a	Por causa da doença no pulmão Faz acompanhamento regular com profissional de saúde	
+Q119	Q119	Em geral, em que grau a doença do pulmão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+J00402	J4a	 Qual foi o principal motivo de saúde que impediu _ de realizar suas atividades habituais nas duas últimas semanas 
+J007	J7	Algum médico já deu o diagnóstico de alguma doença crônica, física ou mental, ou doença de longa duração (de mais de 6 meses de duração) a _
+VDP001		Tipo de cigarro industrializado comprado
+C009	C9	Cor ou raça
+E001	E1	Na semana de__ a_ (semana de referência), __ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em dinheiro
+E01602	E16	Qual era o rendimento bruto mensal ou retirada que _ fazia normalmente nesse trabalho?(valor em dinheiro)
+VDF004		Faixa de rendimento domiciliar per capita (exclusive o rendimento das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico)
+D01301	D13a	Qual foi o último ano/semestre/série que _ concluiu, com aprovação, neste curso que frequentou
+VDD004A		Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) padronizado para o Ensino Fundamental -  SISTEMA DE 9 ANOS
+E01401	E14a	Nesse trabalho, _ era
+E01201	E12	Qual era a ocupação (cargo ou função) que _ tinha nesse trabalho
+J00404	J4b	Este motivo de saúde estava relacionado ao trabalho
